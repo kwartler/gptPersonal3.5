@@ -3,7 +3,7 @@
     "path": "~/Documents/course and other repos/gptPersonal3.5/server/server.js",
     "project_path": "server/server.js",
     "type": "js",
-    "hash": "125348070",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1679864618364.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "47,84",
-        "scrollLine": "35"
+        "cursorPosition": "31,17",
+        "scrollLine": "23"
     },
     "folds": "",
-    "lastKnownWriteTime": 1679864636,
+    "lastKnownWriteTime": 1679864971,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1679864636851,
+    "last_content_update": 1679864971808,
     "read_only": false,
     "read_only_alternatives": []
 }
